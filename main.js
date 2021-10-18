@@ -1,5 +1,5 @@
 menu_list_array = [
-    "Pepperoni",
+    "Pepperoni" ,
     "Chicken Tandoori",
     "Vegetarian Extravaganza",
     "Paneer Tikka",
